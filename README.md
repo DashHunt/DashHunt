@@ -62,16 +62,6 @@ Cada um desses nasceu de um problema real que eu vivo, não tem "projeto de port
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=DashHunt&show_icons=true&theme=radical)
-
-</div>
-
----
-
 ## 📫 Bora trocar uma ideia?
 
 Se você curte código bem arquitetado, powerlifting, ou as duas coisas ao mesmo tempo (raro, mas existe), me chama:
