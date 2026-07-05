@@ -4,7 +4,7 @@
 
 ### Full Stack Developer | Powerlifting Athlete | Levantador de código (e de peso)
 
-*"SDB... e um `git commit` no final do dia."*
+*"SBD... e um `git commit` no final do dia."*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-coutinho)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurlopescoutinho@hotmail.com)
